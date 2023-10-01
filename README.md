@@ -1,2 +1,2 @@
 # InternshipProjects
-This is my internship project. Here I created a Portfolio page using HTML and CSS.
+This is my first internship project. Here I created a Portfolio page using HTML and CSS.
